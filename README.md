@@ -1,31 +1,18 @@
 # Project title and description
 
-Include a project description that explains **what** your project is and **why** it exists. Aim for no more than 3-5 concise sentences. For example, you might say:
-
-{Project Name} is a project of Hack for LA. Hack for LA is a brigade of a Code for America that exists to {your mission}. {Project Name} helps {target users} accomplish {goal of project}. The {app/site/thing you're building}'s main features include {very brief feature descriptions}.
+The [Open Climate Collabathon](https://www.collabathon.openclimate.earth) is a form of collabathon–an event based on a principle of radical collaboration and crowd-development. It is an open event mobilizing a global network of Universities, civic tech groups, startups and youth to crowd-develop an integrated climate accounting platform by leveraging state-of-the-art digital technologies. Climate accounting solutions are designed to help the world track and achieve the goals of the Paris climate agreement.
 
 ### Project context
 
-Civic projects often exist within a larger context that may include multiple stakeholders, historic relationships, associated research, or other details that are relevant but not *required* for direct contributions. Gathering these details in one place is useful, but the ReadMe isn't that place. Use this section to [link to a Google Doc](#) or other documentation repository where contributors can dig in if they so choose. This is also a good place to link to your Code of Conduct.
+Link to [Collabathon Wiki Co-organizer Dashboard](https://collabathon-docs.openclimate.earth/co-organizers/co-organizer-dashboard)
+View the [Open Climate Collabathon White paper](https://drive.google.com/drive/u/0/folders/1NkHsMHB7Zzsseyk-xSeezfRQnSkPMzn8)
 
 ### Technology used
 
-- Each platform or framework should get its own bullet.
-- Each platform should include an [active link](#) to the official documentation.
-
-
 
 # How to contribute
-
-Explain the different ways people can contribute. For example:
-
-- Join the team {on Slack/at our weekly hack night/etc}.
-- To help with user research, {do ABC}.
-- To provide design support, {do XYZ}.
-- To contribute to the code, follow the instructions below.
-
-Remember to provide direct links to each channel.
-
+- Join the channel [#climate-collabathon](https://app.slack.com/client/T04502KQX/C01C2P7D413) on slack and contact our Product Manager [Angela Zhang](https://app.slack.com/team/U01CDAWS3HP)
+- Join the Open Climate Collabathon Co-organizer's [discord](https://discord.com/invite/phe9eP9)
 
 
 ## Installation instructions
@@ -63,7 +50,7 @@ To create a new issue, please use the blank issue template (available when you c
 
 # Contact info
 
-Include at least one way (or more, if possible) to reach your team with questions or comments.
+Contact our Product Manager [Angela Zhang](https://app.slack.com/team/U01CDAWS3HP) with any inquiries, questions or concerns.
 
 
 ### Licensing
