@@ -4,8 +4,7 @@ The [Open Climate Collabathon](https://www.collabathon.openclimate.earth) is a f
 
 ### Project context
 
-Link to [Collabathon Wiki Co-organizer Dashboard](https://collabathon-docs.openclimate.earth/co-organizers/co-organizer-dashboard)
-View the [Open Climate Collabathon White paper](https://drive.google.com/drive/u/0/folders/1NkHsMHB7Zzsseyk-xSeezfRQnSkPMzn8)
+Link to [Collabathon Wiki Co-organizer Dashboard](https://collabathon-docs.openclimate.earth/co-organizers/co-organizer-dashboard) or view the [Open Climate Collabathon White paper](https://drive.google.com/drive/u/0/folders/1NkHsMHB7Zzsseyk-xSeezfRQnSkPMzn8)
 
 ### Technology used
 
