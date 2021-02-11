@@ -1,10 +1,10 @@
-# The Climate Project
+# GreenEarthOS
 
-The [Climate Temp Name] project seeks to create and publish a map of the current climate project support landscape including gaps. Once the landscape has been created the project will work to create visible guidance for open source projects and project ideators on how to navigate the landscape and connect with players at every appropriate stage (recruiting, mentoring, partnerships, packaging and funding) ; thereby reducing barriers to currently under represented communities.
+The GreenEarthOS project seeks to create and publish a map of the current climate project support landscape including gaps. Once the landscape has been created the project will work to create visible guidance for open source projects and project ideators on how to navigate the landscape and connect with players at every appropriate stage (recruiting, mentoring, partnerships, packaging and funding) ; thereby reducing barriers to currently under represented communities.
 
 ### Project context
 
-View the [Climate Project one-sheet](https://docs.google.com/document/d/1mVxXVz2sTPyzJ9LjeJXq2rv2Pstc9vffh5wftIusAMo/edit)
+View the [GreenEarthOS one-sheet](https://docs.google.com/document/d/1mVxXVz2sTPyzJ9LjeJXq2rv2Pstc9vffh5wftIusAMo/edit)
 
 
 ### Technology used
@@ -19,6 +19,5 @@ View the [Climate Project one-sheet](https://docs.google.com/document/d/1mVxXVz2
 - Join the slack channel [#climate-collabathon](https://hackforla.slack.com/archives/C01C2P7D413) and say hi! Tell us what your skillset is and how you're looking to contribute.
 - One of our product managers will add you to the meeting invite & the project resources
 - Join our team meetings - Thursdays from 2 30 pm to 3 30 pm PST.
-- We're still zeroing in on a name for our project, help us decide by [voting](https://app.usabilityhub.com/do/3537ab37e5f7/63e4
 )!
 
