@@ -19,5 +19,5 @@ View the [GreenEarthOS one-sheet](https://docs.google.com/document/d/1mVxXVz2sTP
 - Join the slack channel [#greenearthos-climate](https://hackforla.slack.com/archives/C01C2P7D413) and say hi! Tell us what your skillset is and how you're looking to contribute.
 - One of our product managers will add you to the meeting invite & the project resources
 - Join our team meetings - Wednesdays from 7 pm to 8 pm PST.
-)!
+
 
