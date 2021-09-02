@@ -4,7 +4,8 @@ The GreenEarthOS project seeks to create and publish a map of the current climat
 
 ### Project context
 
-View the [GreenEarthOS one-sheet](https://github.com/hackforla/product-management/blob/master/project-one-sheets/GreenEarthOS%20one%20sheet.pdf)
+View the [GreenEarthOS one-sheet](https://github.com/hackforla/product-management/blob/master/project-one-sheets/GreenEarthOS-One-Sheet.pdf
+)
 
 
 ### Technology used
