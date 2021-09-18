@@ -7,12 +7,26 @@ The GreenEarthOS project seeks to create and publish a map of the current climat
 View the [GreenEarthOS one-sheet](https://github.com/hackforla/product-management/blob/master/project-one-sheets/GreenEarthOS-One-Sheet.pdf
 )
 
+### Installation
+This project requires Python and `pip`. 
 
-### Technology used
+```python
+pip install -r requirements.txt
+```
+
+To locally test and develop, this command will `build` the files and serve the files with a webserver on `127.0.0.1:8000`
+```
+mkdocs serve
+```
+
+To build the documentation files only, run `mkdocs build`. Note that `mkdocs serve` automatically builds the files regardless. 
+
+### Technologies used
 
 - [GitHub project board](https://github.com/hackforla/climate-project/projects/1)
 - [Slack](https://hackforla.slack.com/archives/C01C2P7D413)
 - [Google drive](https://drive.google.com/drive/u/0/folders/1N2GN3SHSXBpO_Q6dgfOp7EzbDVUz-6HO)
+- [MkDocs](https://www.mkdocs.org/)
 
 # How to contribute
 
