@@ -8,7 +8,7 @@
         
         <link rel="canonical" href="https://greenearthos.org/">
         <link rel="shortcut icon" href="img/favicon.ico">
-        <title>GreenEarthOs</title>
+        <title>GreenEarthOS</title>
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <link href="css/font-awesome.min.css" rel="stylesheet">
         <link href="css/base.css" rel="stylesheet">
@@ -23,7 +23,7 @@
     <body class="homepage">
         <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
-                <a class="navbar-brand" href=".">GreenEarthOs</a>
+                <a class="navbar-brand" href=".">GreenEarthOS</a>
                 <!-- Expander button -->
                 <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
                     <span class="navbar-toggler-icon"></span>
@@ -31,6 +31,31 @@
 
                 <!-- Expanded navigation -->
                 <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="navitem active">
+                                <a href="." class="nav-link">Index</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="page-1/" class="nav-link">Page One</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="page-2/" class="nav-link">Page Two</a>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Group <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="Group/page-1/" class="dropdown-item">Group Page One</a>
+</li>
+                                    
+<li>
+    <a href="Group/page-2/" class="dropdown-item">Group Page Two</a>
+</li>
+                                </ul>
+                            </li>
+                        </ul>
 
                     <ul class="nav navbar-nav ml-auto">
                         <li class="nav-item">
@@ -38,6 +63,16 @@
                                 <i class="fa fa-search"></i> Search
                             </a>
                         </li>
+                            <li class="nav-item">
+                                <a rel="prev" class="nav-link disabled">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" href="page-1/" class="nav-link">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
                             <li class="nav-item">
                                 <a href="https://github.com/hackforla/GreenEarthOS/edit/master/docs/index.md" class="nav-link"><i class="fa fa-github"></i> Edit on GitHub</a>
                             </li>
@@ -58,12 +93,27 @@
     
     <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
         <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#index" class="nav-link">Index</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#overview" class="nav-link">Overview</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
         </ul>
     </div>
 </div></div>
                     <div class="col-md-9" role="main">
 
-</div>
+<h1 id="index">Index</h1>
+<h2 id="overview">Overview</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at libero eget arcu rutrum cursus nec rutrum lacus. Vestibulum</p>
+<h3 id="a">A</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at libero eget arcu rutrum cursus nec rutrum lacus. Vestibulum vel tortor sit amet sem convallis eleifend. Duis malesuada turpis ut vestibulum posuere. Ut ornare libero quis ornare venenatis. Vivamus eu maximus massa, non fermentum dolor. Pellentesque suscipit lacus vel pulvinar feugiat. Phasellus ornare quis erat at euismod. Suspendisse in libero porttitor, tempus est id, efficitur justo. Cras lacinia purus non </p>
+<h3 id="b">B</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at libero eget arcu rutrum cursus nec rutrum lacus. Vestibulum vel tortor sit amet sem convallis eleifend. Duis malesuada turpis ut vestibulum posuere. Ut ornare libero quis ornare venenatis. Vivamus eu maximus massa, non fermentum dolor. Pellentesque suscipit lacus vel pulvinar feugiat. Phasellus ornare quis erat at euismod. Suspendisse in libero porttitor, tempus est id, efficitur justo. Cras lacinia purus non </p></div>
             </div>
         </div>
 
@@ -144,5 +194,5 @@
 
 <!--
 MkDocs version : 1.2.2
-Build Date UTC : 2021-09-03 20:56:46.943709+00:00
+Build Date UTC : 2021-09-25 01:20:10.446881+00:00
 -->
