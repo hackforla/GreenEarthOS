@@ -36,4 +36,4 @@ jobs:
       - name: run mkdocs
         run: |
           mkdocs build
-          mkdocs gh-deploy -f
+          mkdocs gh-deploy --force
