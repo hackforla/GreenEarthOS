@@ -2,3 +2,10 @@ site_name: GreenEarthOS
 site_url: https://greenearthos.org
 repo_url: https://github.com/hackforla/GreenEarthOS/
 edit_uri: edit/main/docs
+
+theme:
+  logo: assets/logo.png
+  name: material
+  palette:
+    primary: "teal"
+    accent: "green"
