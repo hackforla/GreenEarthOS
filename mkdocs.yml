@@ -7,5 +7,5 @@ theme:
   logo: assets/logo.png
   name: material
   palette:
-    primary: "forestgreen"
+    primary: "forest green"
     accent: "green"
