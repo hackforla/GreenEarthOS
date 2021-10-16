@@ -8,5 +8,8 @@ theme:
   name: material
   palette:
     scheme: green
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
 extra_css:
   - stylesheets/extra.css
