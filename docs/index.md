@@ -7,7 +7,7 @@ hide:
 
 See our work in progress
 
-## Initiatives
+## **Initiatives**
 
 ### [Climate Events](Climate-Events.md)
 write some text her that sumarizes what the initative is about
