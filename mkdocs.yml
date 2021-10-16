@@ -7,6 +7,6 @@ theme:
   logo: assets/logo.png
   name: material
   palette:
-    scheme: greenearthos
+    scheme: youtube
 extra_css:
   - stylesheets/extra.css
