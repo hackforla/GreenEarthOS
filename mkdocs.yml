@@ -7,5 +7,6 @@ theme:
   logo: assets/logo.png
   name: material
   palette:
-    primary: "forest green"
-    accent: "green"
+    scheme: youtube
+extra_css:
+  - stylesheets/extra.css
