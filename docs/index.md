@@ -10,7 +10,7 @@ See our work in progress
 ## **Initiatives**
 
 ### [Climate Events](Climate-Events.md)
-write some text her that sumarizes what the initative is about
+GreenEarthOS is creating a web based reource that makes finding the organized climate event that you are looking for easy.
 
 ### [Climate Projects](Climate-Projects.md)
 write some text her that sumarizes what the initative is about
