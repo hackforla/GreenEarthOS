@@ -6,7 +6,7 @@ hide:
 #<center>Climate Events</center>
 
 ### Overview
-There are hackathons, workshops, and other climate project events.  GreenEarthOS is creating a website to make finding the climate event that you are looking for easy.
+There are hackathons, workshops, and other climate project events.  GreenEarthOS is creating a web based resource to make finding the organized climate event that you are looking for easy.
 
 ### How we are going about it
 
