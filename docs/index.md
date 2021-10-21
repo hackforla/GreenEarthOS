@@ -20,4 +20,4 @@ communities.
 GreenEarthOS is creating a web based reource that makes finding the organized climate event that you are looking for easy.
 
 ### [Climate Projects](Climate-Projects.md)
-write some text her that sumarizes what the initative is about
+We are studying and publishing our findings on what makes open source climate projects successful and what blockers they experience.  This will better help us understand the Climate Project Space.
