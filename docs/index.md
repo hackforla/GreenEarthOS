@@ -14,6 +14,8 @@ stage (recruiting, mentoring, partnerships, packaging and funding);
 thereby reducing barriers to currently under represented
 communities.
 
+View our [GreenEarthOS Overview](GreenEarthOS-One-Sheet.pdf)
+
 ## **Initiatives**
 
 ### [Climate Events](Climate-Events.md)
