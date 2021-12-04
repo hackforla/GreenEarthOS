@@ -18,7 +18,7 @@ View our [GreenEarthOS Overview](GreenEarthOS-One-Sheet.pdf)
 
 ## **Initiatives**
 
-### [Climate Events](Climate-Events.md)
+### [Climate Conferences](Climate-Conferences.md)
 GreenEarthOS is creating a web based reource that makes finding the organized climate event that you are looking for easy.
 
 ### [Climate Projects](Climate-Projects.md)
