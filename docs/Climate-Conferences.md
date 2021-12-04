@@ -8,6 +8,8 @@ hide:
 ### Overview
 We are defining Climate Conferences as hackathons, workshops, and other climate events that bring people together to discuss and/or work on climate projects.  GreenEarthOS is creating a web based resource to make finding the organized climate conference that you are looking for easy.
 
+Read our [overview](https://docs.google.com/document/d/1a2QUorc_V0Cj6mARQNR60urzYAj1vOU9p_ceom2ec54/preview)
+
 ### How we are going about it
 
 #### We are surveying interested people to find out what criteria will make the conference events database most useful and easy to search.
