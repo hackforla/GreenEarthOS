@@ -18,4 +18,4 @@ Identify open source climate projects at various stages of development
 We are looking to Survey & Interview ideators, innovators, entrepreneurs, and project leads.  If you are interested in being interviews, please signup here
 
 #### Synthesis and Findings
-We will be publishing our finding under our [open source licence](https://github.com/hackforla/GreenEarthOS/blob/main/LICENSE) for the project.
+We will be publishing our finding under our [open source licence](https://github.com/hackforla/GreenEarthOS/blob/main/LICENSE) for the project..
