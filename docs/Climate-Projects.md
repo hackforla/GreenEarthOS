@@ -12,7 +12,7 @@ We are studying what makes climate projects successful and what blockers they ex
 
 #### Identification of Open Source Climate Projects
 Identify open source climate projects at various stages of development 
-[Open Sustainable Technology](https://opensustain.tech/) seems to have the most comprehensive list of open source projects that we have found.  If you know of other open source climate project, please us kmow.
+[Open Sustainable Technology](https://opensustain.tech/) seems to have the most comprehensive list of open source projects that we have found.  If you know of other open source climate project, please us know.
 
 #### Surveys and Interviews
 We are looking to Survey & Interview ideators, innovators, entrepreneurs, and project leads.  If you are interested in being interviews, please signup here
