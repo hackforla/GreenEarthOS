@@ -18,7 +18,7 @@ Please take our 15 min [Conference Event Criteria Priortization](https://docs.go
 #### We have collected data on all the climate conferences we could Google.  
 See our work in progress [Conference Event list spreadsheet](https://docs.google.com/spreadsheets/d/1M_YCauZ57cCHoxYfipm8XpQYX0pMA7mFvYKFGDqbi_0/preview) or [Tell us about an conference](https://docs.google.com/forms/d/e/1FAIpQLSdamAqGK__sJzx0E8dIApmP95hNhb8wGTsEs--TmtAPaFVCgA/viewform) that we don't know about yet!!
 
-The types of data we have collected are:
+##### The types of data we have collected are:
 - Local conferences (Geographically co-located in the same region)
 - Type of conference / Entrance criteria of the conference
 - Frequency of the conference
